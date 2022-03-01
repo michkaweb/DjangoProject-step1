@@ -1,0 +1,24 @@
+body{
+    background-color: lightgoldenrodyellow;
+    margin: 0;
+}
+
+/*begin-header*/
+header{
+    border-bottom: solid;
+    text-align: center;
+}
+/*end-header*/
+
+/*begin-baseContentSection*/
+#baseContentSection{
+
+}
+/*end-baseContentSection*/
+
+/*begin-footer*/
+footer{
+    border-top: solid;
+    text-align: center;
+}
+/*end-footer*/

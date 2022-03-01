@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}{% endblock title %}</title>
+    <link rel="stylesheet" type="text/css" href="/static/style.css">
+    <link rel="icon" href="/static/favicon.ico">
+</head>
+<body>
+
+    <header>
+        {% include 'header.html' %}
+    </header>
+    <section id="baseContentSection">
+        {% block content %}{% endblock content %}
+    </section>
+    <footer>
+        {% include 'footer.html' %}
+    </footer>
+
+</body>
+</html>
