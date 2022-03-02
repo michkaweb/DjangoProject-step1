@@ -1,4 +1,4 @@
-#DjangoProject-step1
+
 Hi dear friend
 Create an online shop in python django using pycharm 2021, step by step, with me in Michkaweb.com.
 
