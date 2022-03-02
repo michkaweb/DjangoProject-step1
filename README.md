@@ -9,7 +9,7 @@ And also I upload an informational video once a week in Tuesdays in my YouTube c
 
 I uploaded this tutorial video in this YouTube link:
 
-https://youtu.be/ZfXW70f3Okw
+https://youtu.be/gsYu08iN1QA
 
 
 
