@@ -1,3 +1,4 @@
+#DjangoProject-step1
 Hi dear friend
 Create an online shop in python django using pycharm 2021, step by step, with me in Michkaweb.com.
 
@@ -37,6 +38,7 @@ Step 7- Creating 400,404, 403 and 500 error pages
 Step 8-Creating log table and saving log information
 
 And next steps …
+
 
 I hope that it can be helpful for you.
 
